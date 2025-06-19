@@ -46,3 +46,4 @@ git config --global user.email メールアドレス
 ### 12. コミットしたファイルの内容が変更されると ```M``` と表示される
   ![image](https://github.com/user-attachments/assets/c50f482c-6aec-461f-8d91-c06bc775e7c0)
 ### 13. バージョンを管理したいタイミングで ```9~11``` を行い適宜バージョンを管理する
+### 14. ブランチを用意すると便利
