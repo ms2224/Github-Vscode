@@ -1,5 +1,5 @@
 # Github-Vscode
-VSCodeでのGithubのバージョン管理のためのメモ
+VSCodeでのGithubのバージョン管理のためのメモ！
 
 ## Githubでリポジトリを作成する
 
